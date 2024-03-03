@@ -6,3 +6,7 @@ output: github_document
 
 #My first Commit
 This is the first file I generated in github
+
+
+# My second commit
+More texts added!
